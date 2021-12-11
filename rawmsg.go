@@ -1,3 +1,7 @@
+/*
+ * Original code by Kevin Gillette (https://github.com/extemporalgenome): https://go.dev/play/p/U_9ejUmD4QJ
+ */
+
 package main
 
 import (
